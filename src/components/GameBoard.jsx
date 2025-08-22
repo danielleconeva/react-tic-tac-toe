@@ -9,6 +9,7 @@ export default function GameBoard({ onSelectSquare, board }) {
                                 <button
                                     onClick={() => onSelectSquare(rowIndex, colIndex)}
                                     disabled={playerSymbol !== null}
+                                    className={playerSymbol ? playerSymbol.toLowerCase() : undefined}
                                 >
                                     {playerSymbol}
                                 </button>
