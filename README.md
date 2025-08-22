@@ -1,6 +1,6 @@
 # React Tic Tac Toe
 
-A classic Tic Tac Toe game built with React. This project demonstrates React fundamentals such as state management, lifting state up, immutable updates, and conditional rendering, along with a redesigned CSS UI and a move history log.
+A classic Tic Tac Toe game built with React. This project demonstrates React fundamentals such as state management, lifting state up, immutable updates, and conditional rendering, along with a move history log.
 
 ---
 
